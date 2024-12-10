@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class buy_stocks {
     public static int stocks(int prices[])
     {
